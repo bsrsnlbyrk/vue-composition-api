@@ -24,6 +24,7 @@ export default {
     background-color: #f8f8f8;
     margin: 2rem 2rem;
     padding: 1rem 1rem;
+    border-radius: 3px;
 }
 .comment-box-header {
     display: flex;
